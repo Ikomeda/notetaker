@@ -9,7 +9,7 @@
   
   ### Screenshots
   ![screenshot](public/assets/images/notepg1.png)
-  ![screenshot](public/assets/images/notepg2.png)
+  ![screenshot](public/assets/images/notepage2.png)
  
   
   ## Description
