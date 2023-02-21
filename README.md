@@ -8,8 +8,8 @@
   https://ikomeda-notetaker.herokuapp.com/notes
   
   ### Screenshots
-  ![screenshot](public/assets/images/notepg1.png)
   ![screenshot](public/assets/images/notepage2.png)
+  ![screenshot](public/assets/images/notepg1.png)
  
   
   ## Description
